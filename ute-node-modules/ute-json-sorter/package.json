@@ -1,0 +1,12 @@
+{
+  "name": "ute-json-sorter",
+  "version": "0.0.2",
+  "description": "",
+  "main": "jsonSorter.js",
+  "author": "Chester Rivas",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^0.6.3",
+    "underscore-node": "^0.1.2"
+  }
+}

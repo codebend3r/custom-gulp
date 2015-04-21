@@ -1,0 +1,13 @@
+{
+  "name": "ute-tag-converter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "tagConverter.js",
+  "author": "Chester Rivas",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^0.6.3",
+    "concat-with-sourcemaps": "^1.0.0",
+    "underscore-node": "^0.1.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crivas-gulp",
+  "version": "0.0.1",
+  "authors": [
+    "Chester Rivas <chester.rivas@gmail.com>"
+  ],
+  "dependencies": {
+    "ute-json-sorter": "./ute-node-modules/ute-json-sorter",
+    "ute-tag-converter": "./ute-node-modules/ute-tag-converter"
+  }
+}
